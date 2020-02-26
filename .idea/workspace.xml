@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5965452e-51b0-4744-ab12-90953226a58d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKvWgdZyHLaOynAfdM24x7qQGU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonTest">
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prac2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prac2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PersonTest" />
+      <option name="METHOD_NAME" value="testEquality" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.testIdentity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prac2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PersonTest" />
+      <option name="METHOD_NAME" value="testIdentity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.testTimeout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prac2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.PersonTest" />
+      <option name="METHOD_NAME" value="testTimeout" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonTest" />
+        <item itemvalue="JUnit.PersonTest.testTimeout" />
+        <item itemvalue="JUnit.PersonTest.testEquality" />
+        <item itemvalue="JUnit.PersonTest.testIdentity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5965452e-51b0-4744-ab12-90953226a58d" name="Default Changelist" comment="" />
+      <created>1582704133750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582704133750</updated>
+      <workItem from="1582704138514" duration="1380000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="220" width="531" height="601" key="#com.intellij.ide.util.MemberChooser" timestamp="1582704514113">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="689" y="220" width="531" height="601" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1582704514113" />
+    <state width="1878" height="332" key="GridCell.Tab.0.bottom" timestamp="1582705593074">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1582705593074" />
+    <state width="1878" height="332" key="GridCell.Tab.0.center" timestamp="1582705593073">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="332" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1582705593073" />
+    <state width="1878" height="332" key="GridCell.Tab.0.left" timestamp="1582705593073">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="332" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1582705593073" />
+    <state width="1878" height="332" key="GridCell.Tab.0.right" timestamp="1582705593073">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="332" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1582705593073" />
+    <state x="464" y="151" width="992" height="739" key="SettingsEditor" timestamp="1582704207957">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="464" y="151" width="992" height="739" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1582704207957" />
+    <state x="734" y="212" width="442" height="616" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582704824268">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="734" y="212" width="442" height="616" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1582704824268" />
+    <state x="342" y="217" width="1225" height="607" key="new project wizard" timestamp="1582704289100">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="342" y="217" width="1225" height="607" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1582704289100" />
+  </component>
+</project>
