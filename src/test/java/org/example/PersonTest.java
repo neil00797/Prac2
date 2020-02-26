@@ -38,7 +38,7 @@ public class PersonTest {
         Assert.assertTrue(Neil==Brandon);
     }
 
-    @Test(timeout = 3000)
+    @Test(timeout = 4000)
     public void testTimeout(){
         while (true){
 
